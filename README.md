@@ -1,1 +1,4 @@
-# Random-Pass
+Random Password Generator using Python & Tkinter.
+Passwords are a real security threat. Over 80% of hacking-related breaches are due to weak or stolen passwords, a recent report shows . So if you want to safeguard your personal info and assets, creating secure passwords is a big first step. And that’s where the  Password Generator can help. Impossible-to-crack passwords are complex with multiple types of characters (numbers, letters, and symbols). Making your passwords different for each website or app also helps defend against hacking. This password generator tool runs locally on your Windows, Mac or Linux computer. The passwords you generate are never sent across the web.
+A random password generator is software program device that takes input from a random or pseudorandom number generator and automatically generates a password. Random passwords can be generated manually, using simple sources of randomness such as dice or coins, or they can be generated using a computer.
+
